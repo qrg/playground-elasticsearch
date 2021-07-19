@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.13.0"
+  },
+  "name": "playground-elasticsearch",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:qrg/playground-elasticsearch.git",
+  "author": "qrg <qualle.rhythmus+d@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
